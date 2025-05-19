@@ -8,4 +8,4 @@
 _топ смешных языков программирования:_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeruniaSun&layout=donut-vertical&langs_count=10&title_color=ff1493)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJzbWk0OTVxcTlxcTZwZ2kzbDJvbXo3bDdodjRtc2J4ZXljNmo4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uQHtUvva9Qljy/giphy.gif">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJzbWk0OTVxcTlxcTZwZ2kzbDJvbXo3bDdodjRtc2J4ZXljNmo4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uQHtUvva9Qljy/giphy.gif" width="450" height="300">
