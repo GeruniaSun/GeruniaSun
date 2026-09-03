@@ -5,7 +5,7 @@
 - __слева__ есть мои контакты, если хотите обсудить со мной мультики или предложить мне работу за деньги
 - __ниже__ есть мои лабы/конспекты и другие уморительные штучки
   
-_топ смешных языков программирования:_
+<!--_топ смешных языков программирования:_-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeruniaSun&layout=donut-vertical&langs_count=10&title_color=ff1493)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats-six-kappa-17.vercel.app/api/top-langs/?username=GeruniaSun&layout=donut-vertical&langs_count=10&title_color=ff1493)](https://github.com/anuraghazra/github-readme-stats) -->
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJzbWk0OTVxcTlxcTZwZ2kzbDJvbXo3bDdodjRtc2J4ZXljNmo4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uQHtUvva9Qljy/giphy.gif" width="510" height="340">
